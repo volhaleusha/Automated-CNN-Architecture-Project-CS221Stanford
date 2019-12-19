@@ -1,0 +1,15 @@
+{
+  "experiment_name": "s2_3",
+  "sample_strategy": "tournament_gibbs_epsilon_fit2",
+  "population_size": 10,
+  "train_sample": 60000,
+  "test_sample": 10000,
+  "epochs": 10,
+  "iterations": 10,
+  "batch_size": 200,
+  "w_time": 1,
+  "w_accuracy": -1,
+  "w_params": -1,
+  "dry_run": false,
+  "only_time_bound": false
+}
